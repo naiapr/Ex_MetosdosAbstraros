@@ -46,7 +46,7 @@ namespace Ex_MetodosAbstratos
                 double calculoImposto  = obj.CalculoImposto();
                 Console.WriteLine(obj.Nome + ":  $" + obj.CalculoImposto() );
 
-                soma =+ calculoImposto;
+                soma += calculoImposto;
 
             }
 

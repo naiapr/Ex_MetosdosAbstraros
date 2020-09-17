@@ -1,0 +1,13 @@
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\obj\Debug\netcoreapp3.1\Ex_MetodosAbstratos.csprojAssemblyReference.cache
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\obj\Debug\netcoreapp3.1\Ex_MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\obj\Debug\netcoreapp3.1\Ex_MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\obj\Debug\netcoreapp3.1\Ex_MetodosAbstratos.AssemblyInfo.cs
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\bin\Debug\netcoreapp3.1\Ex_MetodosAbstratos.exe
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\bin\Debug\netcoreapp3.1\Ex_MetodosAbstratos.deps.json
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\bin\Debug\netcoreapp3.1\Ex_MetodosAbstratos.runtimeconfig.json
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\bin\Debug\netcoreapp3.1\Ex_MetodosAbstratos.runtimeconfig.dev.json
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\bin\Debug\netcoreapp3.1\Ex_MetodosAbstratos.dll
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\bin\Debug\netcoreapp3.1\Ex_MetodosAbstratos.pdb
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\obj\Debug\netcoreapp3.1\Ex_MetodosAbstratos.dll
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\obj\Debug\netcoreapp3.1\Ex_MetodosAbstratos.pdb
+C:\Users\naiap\source\repos\Ex_MetodosAbstratas\Ex_MetodosAbstratas\obj\Debug\netcoreapp3.1\Ex_MetodosAbstratos.genruntimeconfig.cache

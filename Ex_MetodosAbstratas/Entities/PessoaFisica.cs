@@ -21,17 +21,15 @@ namespace Ex_MetodosAbstratos.Entities
 
         public override double CalculoImposto()
         {
-            double tx;
+            if(RendaAnual <= 20000)
+            {
+                return (RendaAnual * 0.25) - (GastosSaude * 0.50) ;
 
-            if(RendaAnual <= 20000 && GastosSaude > 0)
+            }else 
             {
-                tx = (RendaAnual * 0.25)- (GastosSaude * 0.50) ;
-            }else
-            {
-                tx = (RendaAnual * 0.15) - (GastosSaude * 0.50);
+                return (RendaAnual * 0.15) - (GastosSaude * 0.50);
+
             }
-
-            return tx;
         }
     }
 }

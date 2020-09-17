@@ -13,7 +13,7 @@ namespace Ex_MetodosAbstratos.Entities
 
         }
 
-        protected PessoaJuridica(string nome, double rendaAnual, int nFuncionarios)
+        public PessoaJuridica(string nome, double rendaAnual, int nFuncionarios)
                                 : base(nome, rendaAnual)
         {
             NFuncionarios = nFuncionarios;
@@ -21,18 +21,18 @@ namespace Ex_MetodosAbstratos.Entities
 
         public override double CalculoImposto()
         {
-            double tx;
+            
 
             if(NFuncionarios > 10)
             {
-                tx = RendaAnual * 0.14;
+                return RendaAnual * 0.14;
             }
             else
             {
-                tx = RendaAnual * 0.16;
+               return RendaAnual * 0.16;
             }
 
-            return tx;
+           
         }
     }
 
